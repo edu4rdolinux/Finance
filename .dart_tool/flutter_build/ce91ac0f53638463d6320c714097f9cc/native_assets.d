@@ -1,0 +1,1 @@
+ /home/eduardo-linux/Documentos/Projects/Finance/finance/.dart_tool/flutter_build/ce91ac0f53638463d6320c714097f9cc/native_assets.yaml: 
